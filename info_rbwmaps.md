@@ -13,6 +13,7 @@
 · Invasion
 · Katsu
 · Lectus
+· Obelisk
 · Paladin
 · Planet 98
 · Rise
@@ -26,3 +27,4 @@
 ---
 2024/07/18 更新: 经投票，移除了 Chained 地图。
 2024/07/18 更新: 投票是因为 qwqL 说 Discord 没这图，但是 Discord 有 Chained 所以我们加回来。
+2024/07/18 更新: 添加 Discord 允许的地图 Obelisk。
