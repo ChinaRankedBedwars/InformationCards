@@ -22,7 +22,7 @@
 
 ---
 
-# 不可行的地图
+# CNRBW Side Rush 模式不可行的地图
 > · Boletum
 · Carapace
 · Catalyst
